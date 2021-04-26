@@ -44,3 +44,4 @@ Secrets.h
 CppProperties.json
 Debug/
 fast/
+*.bin
